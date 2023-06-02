@@ -1,4 +1,4 @@
-package br.com.erudio;
+package br.com.gustavo.greetingservice.model;
 
 public class Greeting {
     private final long id;

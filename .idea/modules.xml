@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/foo/foo.iml" filepath="$PROJECT_DIR$/foo/foo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-calculator/foo (1).iml" filepath="$PROJECT_DIR$/02-calculator/foo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Outros_metodos/foo (2).iml" filepath="$PROJECT_DIR$/03-Outros_metodos/foo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/greeting-service/greeting-service.iml" filepath="$PROJECT_DIR$/greeting-service/greeting-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gustavo-config-server/gustavo-config-server.iml" filepath="$PROJECT_DIR$/gustavo-config-server/gustavo-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gustavo-microservices.iml" filepath="$PROJECT_DIR$/.idea/gustavo-microservices.iml" />
+    </modules>
+  </component>
+</project>
